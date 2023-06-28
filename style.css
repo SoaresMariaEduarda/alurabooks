@@ -2,4 +2,6 @@
     --cor-de-fundo: #EBECEE;
 }
 
-body
+body{
+    background-color: var(--cor-de-fundo);
+}
